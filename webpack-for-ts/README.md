@@ -1,5 +1,3 @@
-# 《设计模式》课程源代码 - Webpack for TS
-
 全局安装 yarn https://yarn.bootcss.com/docs/install/
 
 - 下载源代码，进入当前目录
